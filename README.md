@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hyunah's%20Github%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hyunah's%20Github&fontSize=90)
 
 - 👋 Hi, I’m Hyunah Moon
 - 📝 My major is Transport Engineering
