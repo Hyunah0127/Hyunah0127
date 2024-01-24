@@ -3,15 +3,12 @@
 - 📝 My major is Transport Engineering
 - 👀 I’m interested in data analyzing
 - 📫 How to reach me : contanct moonspace127@gmail.com
-
-<details>
-<summary>
+<div align="center">
  💻My skill
-</summary>
-<br>
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    
-</details>
+ ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+
 
 Hyunah0127/Hyunah0127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
