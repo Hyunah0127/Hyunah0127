@@ -5,7 +5,9 @@
 - 📫 How to reach me : contanct moonspace127@gmail.com
 ----------------------------------------
 <h2 align="center"> 💻My skill </h2> 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+	
 
 
 
