@@ -7,7 +7,7 @@
 <h2 align="center"> 💻My skill </h2> 
 
 <div align="center">
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 </div>
 
 
