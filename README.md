@@ -6,10 +6,10 @@
 
 - <💻My skill>
 <summary>
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
 </summary>
    <br>
-  
+   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </details>
 
 Hyunah0127/Hyunah0127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
